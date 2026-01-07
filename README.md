@@ -37,8 +37,5 @@ This repository isn’t about perfection—it’s about progress.
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/python-projects.git
+
 
