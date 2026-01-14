@@ -1,8 +1,8 @@
-## A lightweight Python-based log analysis tool designed to detect suspicious login activity by scanning authentication logs for repeated failed login attempts.
+# A lightweight Python-based log analysis tool designed to detect suspicious login activity by scanning authentication logs for repeated failed login attempts.
 
-## This project simulates a basic blue-team security task: identifying potential brute-force attacks using real-world style log files such as auth.log.
+# This project simulates a basic blue-team security task: identifying potential brute-force attacks using real-world style log files such as auth.log.
 
-# Features
+## Features
 
  Reads system authentication logs (auth.log)
 
@@ -20,7 +20,7 @@ Unique IPs involved
 
  Graceful error handling for missing files and invalid inputs
 
-# How It Works
+## How It Works
 
 1.The program reads a log file line by line.
 
@@ -34,11 +34,11 @@ Unique IPs involved
 
 6.Prints security alerts if suspicious behavior is detected.
 
-# Example Log File (auth.log)
+## Example Log File (auth.log)
 
 This project includes an example log file (auth.log) used as input.
 
-# Usage
+## Usage
 Run The Script
 analyzer.py
 Provide inputs when prompted
@@ -47,7 +47,7 @@ auth.log
 Enter threshold for error count:
 3
 
-# Sample Output
+## Sample Output
 SECURITY ALERTS:
 
 Suspicious IP detected: 192.168.1.10 (5 failed attempts)
@@ -57,13 +57,13 @@ LOG ANALYSIS COMPLETE.
 Total failed login attempts: 12
 Unique IPs involved: 4
 
-# Requirements
+## Requirements
 
 Python 3.x
 A log file formatted similarly to Linux authentication logs
 No external libraries required — pure Python, pure logic.
 
-# Future Improvements
+## Future Improvements
 
 Export alerts to a file
 Add timestamp-based detection
