@@ -1,6 +1,6 @@
 # A lightweight Python-based log analysis tool designed to detect suspicious login activity by scanning authentication logs for repeated failed login attempts.
 
-# This project simulates a basic blue-team security task: identifying potential brute-force attacks using real-world style log files such as auth.log.
+## This project simulates a basic blue-team security task: identifying potential brute-force attacks using real-world style log files such as auth.log.
 
 ## Features
 
