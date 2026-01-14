@@ -1,0 +1,34 @@
+Jan 10 10:01:12 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 45231 ssh2
+Jan 10 10:01:15 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 45232 ssh2
+Jan 10 10:01:18 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 45233 ssh2
+Jan 10 10:01:22 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 45234 ssh2
+Jan 10 10:01:25 kali sshd[1023]: Failed password for invalid user admin from 192.168.1.10 port 45235 ssh2
+
+Jan 10 10:02:01 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33321 ssh2
+Jan 10 10:02:04 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33322 ssh2
+Jan 10 10:02:07 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33323 ssh2
+Jan 10 10:02:10 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33324 ssh2
+Jan 10 10:02:13 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33325 ssh2
+Jan 10 10:02:16 kali sshd[1044]: Failed password for root from 203.0.113.45 port 33326 ssh2
+
+Jan 10 10:03:40 kali sshd[1099]: Failed password for invalid user test from 45.83.193.10 port 51822 ssh2
+Jan 10 10:03:43 kali sshd[1099]: Failed password for invalid user test from 45.83.193.10 port 51823 ssh2
+Jan 10 10:03:46 kali sshd[1099]: Failed password for invalid user test from 45.83.193.10 port 51824 ssh2
+
+Jan 10 10:04:11 kali sshd[1112]: Accepted password for user from 192.168.1.5 port 60211 ssh2
+
+Jan 10 10:05:02 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41211 ssh2
+Jan 10 10:05:05 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41212 ssh2
+Jan 10 10:05:08 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41213 ssh2
+Jan 10 10:05:11 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41214 ssh2
+Jan 10 10:05:14 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41215 ssh2
+Jan 10 10:05:17 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41216 ssh2
+Jan 10 10:05:20 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41217 ssh2
+Jan 10 10:05:23 kali sshd[1155]: Failed password for invalid user oracle from 185.220.101.32 port 41218 ssh2
+
+Jan 10 10:06:45 kali sshd[1201]: Failed password for root from 91.240.118.172 port 54001 ssh2
+Jan 10 10:06:48 kali sshd[1201]: Failed password for root from 91.240.118.172 port 54002 ssh2
+Jan 10 10:06:51 kali sshd[1201]: Failed password for root from 91.240.118.172 port 54003 ssh2
+Jan 10 10:06:54 kali sshd[1201]: Failed password for root from 91.240.118.172 port 54004 ssh2
+Jan 10 10:06:57 kali sshd[1201]: Failed password for root from 91.240.118.172 port 54005 ssh2
+
