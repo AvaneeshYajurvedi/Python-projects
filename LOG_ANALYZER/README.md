@@ -60,18 +60,26 @@ Suspicious IP detected: 192.168.1.10 (5 failed attempts)
 LOG ANALYSIS COMPLETE.
 
 Total failed login attempts: 12
+
 Unique IPs involved: 4
 
 ## Requirements
 
 Python 3.x
+
 A log file formatted similarly to Linux authentication logs
+
 No external libraries required — pure Python, pure logic.
 
 ## Future Improvements
 
 Export alerts to a file
+
 Add timestamp-based detection
+
 Support multiple log formats
+
 Real-time log monitoring
+
 IP reputation lookup
+
