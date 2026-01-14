@@ -40,11 +40,16 @@ This project includes an example log file (auth.log) used as input.
 
 ## Usage
 Run The Script
+
 analyzer.py
 Provide inputs when prompted
+
 Enter log file name:
+
 auth.log
+
 Enter threshold for error count:
+
 3
 
 ## Sample Output
