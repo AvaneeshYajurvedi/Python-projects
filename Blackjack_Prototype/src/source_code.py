@@ -1,3 +1,11 @@
+'''A simple, console-based Blackjack game prototype written in Python.
+This project simulates a one-round Blackjack match between a user and the computer, following core Blackjack rules with automatic Ace adjustment and basic dealer logic.
+Built as a learning project to practice:
+Python fundamentals
+Functions and conditionals
+Game logic and flow control
+Randomized outcomes'''
+
 import random
 game_over = False
 cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
