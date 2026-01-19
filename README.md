@@ -5,7 +5,7 @@ Each project reflects a step forward—whether it’s understanding core concept
 
 ---
 
-## 📌 What You’ll Find Here
+##  What You’ll Find Here
 - Beginner to intermediate Python projects  
 - Practice programs and mini-applications  
 - Logic-driven scripts and real-world inspired solutions  
@@ -15,7 +15,7 @@ This repository isn’t about perfection—it’s about progress.
 
 ---
 
-## 🧠 Purpose
+##  Purpose
 - Strengthen Python fundamentals  
 - Improve problem-solving and logical thinking  
 - Build consistency through hands-on coding  
@@ -23,7 +23,7 @@ This repository isn’t about perfection—it’s about progress.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Python  
 - **Tools:** VS Code / Terminal  
 - **Concepts:**  
