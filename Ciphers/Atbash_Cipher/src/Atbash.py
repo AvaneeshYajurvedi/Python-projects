@@ -8,5 +8,5 @@ def atbash(message):
 		else:
 			cipher+=ch
 	return cipher
-a=input("ENTER THE STRING: \n")
+a=input("ENTER THE ORIGNAL TEXT: \n")
 print(f"Encrpyted String Is \n{atbash(a)}")
