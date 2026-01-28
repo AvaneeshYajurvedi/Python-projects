@@ -9,4 +9,4 @@ def atbash(message):
 			cipher+=ch
 	return cipher
 a=input("ENTER THE ORIGNAL TEXT: \n")
-print(f"Encrpyted String Is \n{atbash(a)}")
+print(f"Encrpyted Text Is \n{atbash(a)}")
